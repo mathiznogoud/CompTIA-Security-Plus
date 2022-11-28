@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "0cdb78343f08698f",
+    "type": "split",
+    "children": [
+      {
+        "id": "26fec304474e563c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be21bbd0e120a8f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "be48c97d5bb308f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b87545f669b8de8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "06a52ee9e1bccce2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f99e0c7b5bdd2c2b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7e8d809e0c856a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "79569cbc0fc88a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc19c5ec566005b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96e4ef8b52f56de4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e03c5cabdc9294a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6da8036d52830f0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "590f425ce9b16a7a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "89f6668658a99232",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "b486caa367fd6d47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "26fec304474e563c",
+  "lastOpenFiles": [
+    "Images/Pasted image 20220804222535.png",
+    "3. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.1. Social Engineerings/1.1.1. Phishing.md",
+    "3. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.1. Social Engineerings/11.md",
+    "3. CompTIA/CompTIA Security+/CompTIA Security+.md",
+    "3. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.1. Social Engineerings/1.1.2. Impersonation.md",
+    "3. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.1. Social Engineerings/1.1.10. Principles of Social Engineering.md",
+    "3. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.1. Social Engineerings/1.1.9. Other social engineering attack.md",
+    "3. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.1. Social Engineerings/1.1.8. Incluence Campaigns.md",
+    "3. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.1. Social Engineerings/1.1.3. Dumpster diving.md",
+    "3. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.1. Social Engineerings/1.1.4. Shoulder Surfing.md"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "0cdb78343f08698f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d9c5841afa26a9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f3b4fd906c59deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.9. Physical attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be21bbd0e120a8f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "be48c97d5bb308f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b87545f669b8de8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06a52ee9e1bccce2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f99e0c7b5bdd2c2b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 535.5
+  },
+  "right": {
+    "id": "d7e8d809e0c856a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "79569cbc0fc88a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dc19c5ec566005b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.9. Physical attacks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96e4ef8b52f56de4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.9. Physical attacks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e03c5cabdc9294a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6da8036d52830f0c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.9. Physical attacks.md"
+              }
+            }
+          },
+          {
+            "id": "590f425ce9b16a7a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "89f6668658a99232",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "b486caa367fd6d47",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 158.5
+  },
+  "active": "1f3b4fd906c59deb",
+  "lastOpenFiles": [
+    "2. Security Risk Assessment/0. Common risk & Conventions/0. Naming convention.md",
+    "4. Penetration Testing/Pathways.rmit.edu.vn.md",
+    "1. RMIT/Projects/RMIT Projects/PAM _ BeyondTrust/MGR-V account permission to PAM-V account.md",
+    "Images/Pasted image 20220926133652.png",
+    "1. RMIT/Projects/RMIT Projects/PAM _ BeyondTrust/Current limitations.md",
+    "Images/Pasted image 20220926133254.png",
+    "Untitled.md",
+    "1337. Webplode/Ali33 Asia.md",
+    "2. Security Risk Assessment/1. Tracking SRA.md",
+    "2. Security Risk Assessment/0. Common risk & Conventions/1. Vendor's security.md"
+  ]
+}

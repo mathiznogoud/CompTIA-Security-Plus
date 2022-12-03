@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.9. Physical attacks.md",
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.10. Physical attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,194 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "splunk dev server.md",
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.10. Physical attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cd8ebc0ab109dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.11. Adversarial Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec28e342cba5500c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.11. Adversarial Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "857d08e781f047f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.13. Cloud-Based vs. On-Premises Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4be9005df420f075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.4. Trojan Horse and RATS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a09c2c5e4f22545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.3. Ransomeware and Crypto-Malware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84f8fb910f344b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.1. Privilege Escallation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1ddf0f2482eae2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.2 Cross-site Scripting (XSS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "769d1d788e8e689e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.2. Injection Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33a87d384a3ef75e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.4. Buffer overflows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65065152b88c8656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.5. Replay Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9eefe9e4579c56e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.6. Request Forgeries (CSRF && SSRF).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5d54f49eaacdc84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.7. Driver Manipulations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bde981833033d42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.8. SSL Stripping  & HTTP Downgrade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc0c24c58907cff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.9. Race conditions..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65b9e209af40653f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.9. Race conditions..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -94,7 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 200
   },
   "right": {
     "id": "d7e8d809e0c856a1",
@@ -110,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "splunk dev server.md",
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.9. Race conditions..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "splunk dev server.md",
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.9. Race conditions..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "splunk dev server.md"
+                "file": "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.9. Race conditions..md"
               }
             }
           },
@@ -178,24 +358,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 158.5
+    "width": 200,
+    "collapsed": true
   },
-  "active": "23b3672bcbdbf334",
+  "active": "65b9e209af40653f",
   "lastOpenFiles": [
-    "Acunetix.md",
-    "splunk dev server.md",
-    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.2. Attack Types/1.2.9. Physical attacks.md",
-    "2. Security Risk Assessment/0. Common risk & Conventions/0. Naming convention.md",
-    "4. Penetration Testing/Pathways.rmit.edu.vn.md",
-    "1. RMIT/Projects/RMIT Projects/PAM _ BeyondTrust/MGR-V account permission to PAM-V account.md",
-    "Images/Pasted image 20220926133652.png",
-    "1. RMIT/Projects/RMIT Projects/PAM _ BeyondTrust/Current limitations.md",
-    "Images/Pasted image 20220926133254.png",
-    "1337. Webplode/Ali33 Asia.md"
+    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.8. SSL Stripping  & HTTP Downgrade.md",
+    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.7. Driver Manipulations.md",
+    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.6. Request Forgeries (CSRF && SSRF).md",
+    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.5. Replay Attacks.md",
+    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.4. Buffer overflows.md",
+    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.2. Injection Attacks.md",
+    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.2 Cross-site Scripting (XSS).md",
+    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.1. Privilege Escallation.md",
+    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.10. Other Application Attacks.md",
+    "1. Certification training/1. CompTIA/CompTIA Security+/1. Attacks, Threats, and Vulnerabilities/1.3. Application Attacks/1.3.9. Race conditions..md"
   ]
 }

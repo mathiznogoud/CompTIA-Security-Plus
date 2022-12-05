@@ -41,9 +41,57 @@
 			- [[1.3.9. Race conditions.]]
 			- [[1.3.10. Other Application Attacks]]
 		- **1.4. Network Attacks**
+			- [[1.4.1. Rouge Access Points and Evil Twins]]
+			- [[1.4.2. Bluejacking and Bluesnarfing]]
+			- [[1.4.3. Wireless Disassociation Attacks]]
+			- [[1.4.4. Wireless Jamming]]
+			- [[1.4.5. RFID and NFC Attacks]]
+			- [[1.4.6. Randomizing Cryptography]]
+			- [[1.4.7. On-Path Attacks]]
+			- [[1.4.8. MAC Flooding and Cloning]]
+			- [[1.4.9. DNS Attacks]]
+			- [[1.4.10. Denial of Service]]
+			- [[1.4.11. Malicious Scripts]]
 		- **1.5. Threat Actors & Vectors**
+			- [[1.5.1. Threat Actors]]
+			- [[1.5.2. Attack Vectors]]
+			- [[1.5.3. Threat Intelligence]]
+			- [[1.5.4. Threat Research]]
 		- **1.6. Vulnerabilities**
+			- [[1.6.1. Vulnerability Types]]
+			- [[1.6.2. Third-party Risks]]
+			- [[1.6.3. Vulnerability Impacts]]
 		- **1.7. Security Assessments**
+			- [[1.7.1. Threat Hunting]]
+			- [[1.7.2. Vulnerability Scans]]
+			- [[1.7.3. Security Information and Event Management (SIEM)]]
 		- **1.8. Penetration Testing**
+			- [[1.8.1. Penetration Testing]]
+			- [[1.8.2. Reconnaissance]]
+			- [[1.8.3. Security Teams]]
+	- **2. Architecture And Design**
+		- **2.1. Enterprise Security**
+			- [[2.1.1. Configuration Management]]
+			- [[2.1.2. Protecting Data]]
+			- [[2.1.3. Data Loss Prevention (DLP)]]
+			- [[2.1.4. Managing Security]]
+			- [[2.1.5. Site Resilliency]]
+			- [[2.1.6. Honeypots and Deception]]
+		- **2.2. Virtualization and Cloud Computing**
+			- [[2.2.1. Cloud Models]]
+			- [[2.2.2. Edge and Fog computing]]
+			- [[2.2.3. Designing the Cloud]]
+			- [[2.2.4. Infrastructure as Code]]
+			- [[2.2.5. Virtualization Security]]
+		- **2.3. Secure Application Development**
+			- [[2.3.1. Secure Deployments]]
+			- [[2.3.2. Provisioning and Deprovisioning]]
+			- [[2.3.3. Secure Coding Techniques]]
+			- [[2.3.4. Software Diversity]]
+			- [[2.3.5. Automation and Scripting]]
+		- **2.4. Authentication and Authorization**
+			- [[2.4.1. Authentication Methods (IMPORTANT)]]
+			- [[2.4.2. Biometrics]]
+			- [[2.4.3. Multi-factor Authentication]]
 
 %% End Waypoint %%
